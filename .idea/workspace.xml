@@ -1,0 +1,340 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ffe0ad44-228b-4153-bdca-938b83dc0b68" name="Changes" comment="test">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AOP/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AOP/src/main/java/org/itstep/Sample1/Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AOP/src/main/java/org/itstep/Sample1/FullName.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AOP/src/main/java/org/itstep/Sample1/LogExecutionTime.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AOP/src/main/java/org/itstep/Sample1/LoggingAspect.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AOP/src/main/java/org/itstep/Sample1/SomeService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AOP/src/main/java/org/itstep/traffic/Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AOP/src/main/java/org/itstep/traffic/Driver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AOP/src/main/java/org/itstep/traffic/TrafficController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AOP/src/main/java/org/itstep/traffic/TrafficLight.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AplicationContext/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AplicationContext/src/main/java/org/itstep/scan/Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AplicationContext/src/main/java/org/itstep/scan/Cat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AplicationContext/src/main/java/org/itstep/scan/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AplicationContext/src/main/java/org/itstep/scan/Room.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AplicationContext/src/main/java/org/itstep/xml_scan/Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AplicationContext/src/main/java/org/itstep/xml_scan/Cat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AplicationContext/src/main/java/org/itstep/xml_scan/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AplicationContext/src/main/java/org/itstep/xml_scan/Room.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AplicationContext/src/main/resources/daos.xml.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/H2/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/H2/src/main/java/org/itstep/Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/H2/src/main/java/org/itstep/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/H2/src/main/java/org/itstep/UserController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/H2/src/main/java/org/itstep/UserRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/H2/src/main/java/org/itstep/UserService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/H2/src/main/resources/aplication.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hello/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hello/src/main/java/org/itstep/app1/Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hello/src/main/java/org/itstep/app2/Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hello/src/main/java/org/itstep/app2/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hello/src/main/java/org/itstep/app2/PersonController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hello/src/main/java/org/itstep/app3/Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hello/src/main/java/org/itstep/app3/PersonController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hello/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hello/src/main/resources/index.ftl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hello/src/main/resources/persons.ftl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hello/src/main/resources/static/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hibernate/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hibernate/src/main/java/org/itstep/Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hibernate/src/main/java/org/itstep/Country.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hibernate/src/main/java/org/itstep/CountryController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hibernate/src/main/java/org/itstep/CountryControllerFree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hibernate/src/main/java/org/itstep/CountryRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hibernate/src/main/java/org/itstep/CountryService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hibernate/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hibernate/src/main/resources/static/countries.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hibernate/src/main/resources/templates/showCountries.ftl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hibernate/src/main/resources/templates/showCountriesA.ftl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Properties/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Properties/src/main/java/org/itstep/changeable/Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Properties/src/main/java/org/itstep/changeable/LocaleInterceptorConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Properties/src/main/java/org/itstep/fixed/Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Properties/src/main/resources/app.properties.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Properties/src/main/resources/app.properties_en_US.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Properties/src/main/resources/app.properties_ru_RU.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Properties/src/main/resources/application.properties.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="2j6rUrYZU6nyUQZEiLF5Tt29xuA" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "<unknown>",
+    "jdk.selected.JAVA_MODULE": "13",
+    "last_opened_file_path": "C:/Users/gk/Desktop/Springboot-basic/Hibernate/src/main/resources/templates",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="org.itstep.app.app2" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\gk\Desktop\Springboot-basic\Hibernate\src\main\resources\templates" />
+      <recent name="C:\Users\gk\Desktop\Springboot-basic\AplicationContext\src\main\java\org\itstep\xml_scan" />
+      <recent name="C:\Users\gk\Desktop\Springboot-basic\Hello\src\main\java\org\itstep\app\app2" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\gk\Desktop\Springboot-basic\Hibernate\src\main\resources" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="org.itstep" />
+      <recent name="org.itstep.traffic" />
+      <recent name="org.itstep.Sample1" />
+      <recent name="org.itstep.changeable" />
+      <recent name="org.itstep.app.app3" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Application">
+    <configuration name="Application" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.itstep.Application" />
+      <module name="H2" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="org.itstep.Application" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.itstep.Application" />
+      <module name="Hibernate" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.itstep.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="org.itstep.Sample1.Application" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.itstep.Sample1.Application" />
+      <module name="AOP" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.itstep.Sample1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="org.itstep.changeable.Application" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.itstep.changeable.Application" />
+      <module name="AplicationContext (2)" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.itstep.changeable.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="org.itstep.traffic.Application" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.itstep.traffic.Application" />
+      <module name="AOP" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.itstep.traffic.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Application" />
+        <item itemvalue="Application.org.itstep.Application" />
+        <item itemvalue="Application.org.itstep.traffic.Application" />
+        <item itemvalue="Application.org.itstep.Sample1.Application" />
+        <item itemvalue="Application.org.itstep.changeable.Application" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ffe0ad44-228b-4153-bdca-938b83dc0b68" name="Changes" comment="" />
+      <created>1720718386574</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1720718386574</updated>
+    </task>
+    <task id="LOCAL-00001" summary="test">
+      <option name="closed" value="true" />
+      <created>1720719549834</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1720719549834</updated>
+    </task>
+    <task id="LOCAL-00002" summary="test">
+      <option name="closed" value="true" />
+      <created>1720721994521</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1720721994521</updated>
+    </task>
+    <task id="LOCAL-00003" summary="test">
+      <option name="closed" value="true" />
+      <created>1721060674452</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1721060674453</updated>
+    </task>
+    <task id="LOCAL-00004" summary="test">
+      <option name="closed" value="true" />
+      <created>1721061139095</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1721061139095</updated>
+    </task>
+    <task id="LOCAL-00005" summary="test">
+      <option name="closed" value="true" />
+      <created>1721064509148</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1721064509148</updated>
+    </task>
+    <task id="LOCAL-00006" summary="test">
+      <option name="closed" value="true" />
+      <created>1721065555156</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1721065555156</updated>
+    </task>
+    <task id="LOCAL-00007" summary="test">
+      <option name="closed" value="true" />
+      <created>1721067423120</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1721067423120</updated>
+    </task>
+    <task id="LOCAL-00008" summary="test">
+      <option name="closed" value="true" />
+      <created>1721324025682</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1721324025682</updated>
+    </task>
+    <task id="LOCAL-00009" summary="test">
+      <option name="closed" value="true" />
+      <created>1721327282344</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1721327282344</updated>
+    </task>
+    <task id="LOCAL-00010" summary="test">
+      <option name="closed" value="true" />
+      <created>1721665888568</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1721665888568</updated>
+    </task>
+    <task id="LOCAL-00011" summary="test">
+      <option name="closed" value="true" />
+      <created>1721666509295</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1721666509295</updated>
+    </task>
+    <task id="LOCAL-00012" summary="test">
+      <option name="closed" value="true" />
+      <created>1721669370484</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1721669370484</updated>
+    </task>
+    <task id="LOCAL-00013" summary="test">
+      <option name="closed" value="true" />
+      <created>1721673014342</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1721673014342</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="test" />
+    <option name="LAST_COMMIT_MESSAGE" value="test" />
+  </component>
+</project>
