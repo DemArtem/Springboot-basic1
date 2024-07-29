@@ -5,19 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ffe0ad44-228b-4153-bdca-938b83dc0b68" name="Changes" comment="test">
-      <change afterPath="$PROJECT_DIR$/Persistence/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Persistence/src/main/java/org/itstep/Application.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Persistence/src/main/java/org/itstep/DatabaseInitializer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Persistence/src/main/java/org/itstep/Product.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Persistence/src/main/java/org/itstep/ProductController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Persistence/src/main/java/org/itstep/ProductRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Persistence/src/main/java/org/itstep/ProductService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Persistence/src/main/resources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Persistence/src/main/resources/data.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Persistence/src/main/resources/images/apple.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Persistence/src/main/java/org/itstep/ImageController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Persistence/src/main/resources/templates/image.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -236,7 +225,15 @@
       <option name="project" value="LOCAL" />
       <updated>1721932493446</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="test">
+      <option name="closed" value="true" />
+      <created>1722277358607</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1722277358607</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
