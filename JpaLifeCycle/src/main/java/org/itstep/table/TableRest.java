@@ -4,9 +4,11 @@ import lombok.AllArgsConstructor;
 import lombok.Data;
 import lombok.NoArgsConstructor;
 import org.itstep.AuditTrailListener;
+import org.itstep.order.OrderRest;
 
 import javax.persistence.*;
 import java.util.HashSet;
+import java.util.Set;
 import java.util.logging.Logger;
 
 //user, group, table, order нельзя присваивать такие имена для класса

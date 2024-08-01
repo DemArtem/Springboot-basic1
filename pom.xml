@@ -17,6 +17,7 @@
         <module>H2</module>
         <module>Persistence</module>
         <module>JpaLifeCycle</module>
+        <module>JpaDefaultValues</module>
     </modules>
 
     <properties>
