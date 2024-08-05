@@ -5,18 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ffe0ad44-228b-4153-bdca-938b83dc0b68" name="Changes" comment="test">
-      <change afterPath="$PROJECT_DIR$/Hibernate-relations/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hibernate-relations/src/main/java/Application.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hibernate-relations/src/main/java/org/itstep/one_to_one_unit/Address.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hibernate-relations/src/main/java/org/itstep/one_to_one_unit/AddressRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hibernate-relations/src/main/java/org/itstep/one_to_one_unit/EmployeeService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hibernate-relations/src/main/resources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hibernate-relations/src/main/resources/data.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hibernate-relations/src/main/resources/schema.sql" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JpaDefaultValues/src/main/java/org/itstep/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/JpaDefaultValues/src/main/java/org/itstep/Employee.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hibernate-relations/src/main/java/org/itstep/one_to_one_unit/Employee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hibernate-relations/src/main/java/Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/Hibernate-relations/src/main/java/Application.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hibernate-relations/src/main/resources/data.sql" beforeDir="false" afterPath="$PROJECT_DIR$/Hibernate-relations/src/main/resources/data.sql" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -309,7 +300,15 @@
       <option name="project" value="LOCAL" />
       <updated>1722876977323</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="test">
+      <option name="closed" value="true" />
+      <created>1722878868269</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1722878868269</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
