@@ -1,13 +1,5 @@
 delete from address;
 delete from employee;
-delete from passport;
-delete from person;
-delete from books;
-delete from authors;
-delete from comment;
-delete from post;
-delete from phone;
-delete from subscriber;
 
 insert into address(city, street) values ('Vitebsk', 'Pobedy st.');
 insert into address(city, street) values ('Vitebsk', 'Moskow st.');

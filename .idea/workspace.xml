@@ -5,8 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ffe0ad44-228b-4153-bdca-938b83dc0b68" name="Changes" comment="test">
-      <change afterPath="$PROJECT_DIR$/Hibernate-relations/src/main/java/org/itstep/one_to_one_unit/Employee.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Hibernate-relations/src/main/java/Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/Hibernate-relations/src/main/java/Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hibernate-relations/src/main/java/org/itstep/Application2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hibernate-relations/src/main/java/Application.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hibernate-relations/src/main/java/org/itstep/one_to_one_unit/Address.java" beforeDir="false" afterPath="$PROJECT_DIR$/Hibernate-relations/src/main/java/org/itstep/one_to_one_unit/Address.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hibernate-relations/src/main/java/org/itstep/one_to_one_unit/AddressRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/Hibernate-relations/src/main/java/org/itstep/one_to_one_unit/AddressRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hibernate-relations/src/main/java/org/itstep/one_to_one_unit/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/Hibernate-relations/src/main/java/org/itstep/one_to_one_unit/Employee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hibernate-relations/src/main/java/org/itstep/one_to_one_unit/EmployeeRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/Hibernate-relations/src/main/java/org/itstep/one_to_one_unit/EmployeeRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hibernate-relations/src/main/java/org/itstep/one_to_one_unit/EmployeeService.java" beforeDir="false" afterPath="$PROJECT_DIR$/Hibernate-relations/src/main/java/org/itstep/one_to_one_unit/EmployeeService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hibernate-relations/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/Hibernate-relations/src/main/resources/application.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Hibernate-relations/src/main/resources/data.sql" beforeDir="false" afterPath="$PROJECT_DIR$/Hibernate-relations/src/main/resources/data.sql" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -96,9 +103,9 @@
     </key>
   </component>
   <component name="RunManager">
-    <configuration name="Application" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.itstep.Application" />
-      <module name="JpaDefaultValues" />
+    <configuration name="Application2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.itstep.Application2" />
+      <module name="Hibernate-relations" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="org.itstep.*" />
@@ -111,7 +118,7 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Application" />
+        <item itemvalue="Application.Application2" />
       </list>
     </recent_temporary>
   </component>
@@ -308,7 +315,15 @@
       <option name="project" value="LOCAL" />
       <updated>1722878868269</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="test">
+      <option name="closed" value="true" />
+      <created>1722879654075</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1722879654075</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
