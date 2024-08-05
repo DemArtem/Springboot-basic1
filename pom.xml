@@ -18,6 +18,7 @@
         <module>Persistence</module>
         <module>JpaLifeCycle</module>
         <module>JpaDefaultValues</module>
+        <module>Hibernate-relations</module>
     </modules>
 
     <properties>
