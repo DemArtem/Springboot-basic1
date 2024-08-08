@@ -5,16 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ffe0ad44-228b-4153-bdca-938b83dc0b68" name="Changes" comment="test">
-      <change afterPath="$PROJECT_DIR$/Hibernate-relations/src/main/java/org/itstep/Application2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Hibernate-relations/src/main/java/Application.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Hibernate-relations/src/main/java/org/itstep/one_to_one_unit/Address.java" beforeDir="false" afterPath="$PROJECT_DIR$/Hibernate-relations/src/main/java/org/itstep/one_to_one_unit/Address.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hibernate-relations/src/main/java/org/itstep/Application2.java" beforeDir="false" afterPath="$PROJECT_DIR$/Hibernate-relations/src/main/java/org/itstep/Application.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Hibernate-relations/src/main/java/org/itstep/one_to_one_unit/AddressRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/Hibernate-relations/src/main/java/org/itstep/one_to_one_unit/AddressRepository.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Hibernate-relations/src/main/java/org/itstep/one_to_one_unit/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/Hibernate-relations/src/main/java/org/itstep/one_to_one_unit/Employee.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Hibernate-relations/src/main/java/org/itstep/one_to_one_unit/EmployeeRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/Hibernate-relations/src/main/java/org/itstep/one_to_one_unit/EmployeeRepository.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Hibernate-relations/src/main/java/org/itstep/one_to_one_unit/EmployeeService.java" beforeDir="false" afterPath="$PROJECT_DIR$/Hibernate-relations/src/main/java/org/itstep/one_to_one_unit/EmployeeService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Hibernate-relations/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/Hibernate-relations/src/main/resources/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Hibernate-relations/src/main/resources/data.sql" beforeDir="false" afterPath="$PROJECT_DIR$/Hibernate-relations/src/main/resources/data.sql" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,24 +42,25 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary&quot;: &quot;JUnit5&quot;,
-    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5&quot;: &quot;&quot;,
-    &quot;deletionFromPopupRequiresConfirmation&quot;: &quot;false&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;13&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/gk/Desktop/Springboot-basic/JpaDefaultValues/src/main/resources&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
+    "deletionFromPopupRequiresConfirmation": "false",
+    "git-widget-placeholder": "master",
+    "jdk.selected.JAVA_MODULE": "13",
+    "last_directory_selection": "C:/Users/gk/Desktop/Springboot-basic/Hibernate-relations/src/main/java/org/itstep",
+    "last_opened_file_path": "C:/Users/gk/Desktop/Springboot-basic/JpaDefaultValues/src/main/resources",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="org.itstep.one_to_one_unit" />
@@ -103,8 +99,8 @@
     </key>
   </component>
   <component name="RunManager">
-    <configuration name="Application2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.itstep.Application2" />
+    <configuration name="Application" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.itstep.Application" />
       <module name="Hibernate-relations" />
       <extension name="coverage">
         <pattern>
@@ -118,7 +114,7 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Application2" />
+        <item itemvalue="Application.Application" />
       </list>
     </recent_temporary>
   </component>
@@ -323,7 +319,15 @@
       <option name="project" value="LOCAL" />
       <updated>1722879654075</updated>
     </task>
-    <option name="localTasksCounter" value="25" />
+    <task id="LOCAL-00025" summary="test">
+      <option name="closed" value="true" />
+      <created>1722882457317</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1722882457317</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

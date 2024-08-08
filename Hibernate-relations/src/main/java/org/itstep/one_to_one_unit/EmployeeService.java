@@ -1,15 +1,16 @@
 package org.itstep.one_to_one_unit;
 
-import org.itstep.Employee;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
+
 import java.util.List;
 import java.util.Optional;
 
 @Service
+
 public class EmployeeService {
     @Autowired
-    Employee.EmployeeRepository employeeRepository;
+    EmployeeRepository employeeRepository;
 
     @Autowired
     AddressRepository addressRepository;
@@ -27,7 +28,9 @@ public class EmployeeService {
     }
 
     public Employee saveEmployee(Employee employee) {
-        return employeeRepository.save(employee);
+        return 
+employeeRepository.save
+(employee);
     }
 
     public void deleteEmployeeById(Long id) {
@@ -39,6 +42,12 @@ public class EmployeeService {
     }
 
     public Address saveAddress(Address address) {
-        return addressRepository.save(address);
+        return 
+addressRepository.save
+(address);
     }
-}
+
+    public void deleteAddressById(Long id){
+        addressRepository.deleteById(id);
+    }
+} 
